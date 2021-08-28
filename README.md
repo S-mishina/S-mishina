@@ -5,7 +5,7 @@ Twitter:https://twitter.com/asmg071
 ### 言語
 
 * python
-* 時々, bash
+* 時々bash
 
 ### 分野
 
