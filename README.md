@@ -2,6 +2,10 @@
 帝京大学理工学部情報4年 S-mishina<br>
 Twitter:https://twitter.com/asmg071
 ## 触ってる言語・分野
+### 言語
+
+* python
+* 時々, bash
 
 ### 分野
 
