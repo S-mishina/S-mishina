@@ -15,6 +15,7 @@ Twitter:https://twitter.com/asmg071
 * インフラ
 * 機械学習
 * セキュリティ
+* Webアプリケーション
 
 ### 研究対象
 
