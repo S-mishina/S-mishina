@@ -1,5 +1,5 @@
 ## 自己紹介
-帝京大学理工学部情報4年 S-mishina<br>
+S-mishina<br>
 Twitter:https://twitter.com/asmg071
 ## 触ってる言語・分野
 ### 言語
