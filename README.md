@@ -6,8 +6,6 @@ Twitter:https://twitter.com/asmg071
 
 * python
 * 時々bash
- 
-### 最近学習している言語
 * node.js
 
 ### 分野
