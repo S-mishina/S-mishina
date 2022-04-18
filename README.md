@@ -1,6 +1,5 @@
 ## 自己紹介
 S-mishina<br>
-Twitter:https://twitter.com/asmg071
 ## 触ってる言語・分野
 ### 言語
 
