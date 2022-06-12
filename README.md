@@ -1,10 +1,8 @@
 ## 👏About me
-<p align="center">
-・ 👦 Name:<br>
+<li> 👦 Name </li>
 Seiryu Mishina<br>
-・ 👨‍🏫Career<br>
+<li>👨‍🏫Career<br></li>
 Teikyo University(Department of Information and Electronic Engineering) <br> → EXIDEA inc(intern: data scientist) → ZOZO inc(SRE)
-</p>
 
 ## 🌟status
 [![S-mishina GitHub stats](https://github-readme-stats.vercel.app/api?username=S-mishina&theme=vue-dark&show_icons=true)](https://github.com/S-mishina/github-readme-stats)
