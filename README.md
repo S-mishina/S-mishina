@@ -1,7 +1,7 @@
 ## 👏About me
-<li> 👦 Name </li>
+👦 Name<br>
 Seiryu Mishina<br>
-<li>👨‍🏫Career<br></li>
+👨‍🏫Career<br>
 Teikyo University(Department of Information and Electronic Engineering) <br> → EXIDEA inc(intern: data scientist) → ZOZO inc(EC Platform Service SRE)
 
 ## 🌟status
