@@ -9,3 +9,5 @@ Teikyo University(Department of Information and Electronic Engineering) <br> →
 [![trophy](https://github-profile-trophy.vercel.app/?username=S-mishina&margin-w=15&margin-h=15&theme=onedark&title=Commit,PullRequest,Issue,Repository)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ✏️Qiita timeline
+<!-- profile updater begin: qiita -->
+<!-- profile updater end: qiita -->
