@@ -19,4 +19,4 @@ jobs:
           git config --local user.email "action@github.com"
           git add .
           git commit -m "profile updated" || true
-          git push origin Deleted-repositories
+          git push origin main
