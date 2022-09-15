@@ -10,7 +10,7 @@ Teikyo University(Department of Information and Electronic Engineering) <br> →
 
 ## ✏️Qiita activity
 <!-- profile updater begin: qiita -->
-- Aug 23, **1 LGTM** [Javaで作られたWEBアプリケーションの運用にあたってJVMのパラメータをKubernetesマニフェストで管理する](https://qiita.com/asmg07/items/9e7951369d8fd7a2f325)
+- Aug 23, **3 LGTM** [Javaで作られたWEBアプリケーションの運用にあたってJVMのパラメータをKubernetesマニフェストで管理する](https://qiita.com/asmg07/items/9e7951369d8fd7a2f325)
 - Jun 28, **8 LGTM** [Terraformerを利用して手動で作成したDatadog DashboardのCodeを生成してみた](https://qiita.com/asmg07/items/89d3bfcc3767e599a8d4)
 - Jun 1, **8 LGTM** [trivy-actionを使ってDocker imageの脆弱性診断をやってみた](https://qiita.com/asmg07/items/4fd623c4804d5f68f36e)
 - Oct 24, **1 LGTM** [Gluejob pythonScriptでmongo Atlasからデータ取得をしてみた](https://qiita.com/asmg07/items/4b9e4f09b84793fa9e1b)
