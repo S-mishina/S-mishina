@@ -9,6 +9,8 @@ Teikyo University(Department of Information and Electronic Engineering) <br> →
 [![trophy](https://github-profile-trophy.vercel.app/?username=S-mishina&margin-w=15&margin-h=15&theme=onedark&title=Commit,PullRequest,Issue,Repository)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ✏️Qiita activity
+[![Articles](https://badgen.org/img/qiita/asmg07/articles?style=for-the-badge)](https://qiita.com/asmg07)
+[![Contributions](https://badgen.org/img/qiita/asmg07/contributions?style=for-the-badge)](https://qiita.com/asmg07)
 <!-- profile updater begin: qiita -->
 - Sep 26, **4 LGTM** [Kubernetes上で実行されているDatadog AgentでJava JMX カスタムメトリクスを取得する方法](https://qiita.com/asmg07/items/7134bcba57f36c80bb07)
 - Sep 15, **1 LGTM** [Kubernetes上で立ち上げられたJMX Server（SpringBoot）に接続する時のTips](https://qiita.com/asmg07/items/c885a6ee0a1dbc3d22b9)
