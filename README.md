@@ -5,13 +5,12 @@ Seiryu Mishina<br>
 Teikyo University(Department of Information and Electronic Engineering) <br> → EXIDEA inc(intern: data scientist) → ZOZO inc(Platform Service SRE)
 
 ## 🌟status
-### Qiita
-[![Articles](https://badgen.org/img/qiita/asmg07/articles?style=for-the-badge)](https://qiita.com/asmg07)
-[![Contributions](https://badgen.org/img/qiita/asmg07/contributions?style=for-the-badge)](https://qiita.com/asmg07)
 ### GitHub
 [![S-mishina GitHub stats](https://github-readme-stats.vercel.app/api?username=S-mishina&theme=vue-dark&show_icons=true)](https://github.com/S-mishina/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=S-mishina&margin-w=15&margin-h=15&theme=onedark&title=Commit,PullRequest,Issue,Repository)](https://github.com/ryo-ma/github-profile-trophy)
-
+### Qiita
+[![Articles](https://badgen.org/img/qiita/asmg07/articles?style=for-the-badge)](https://qiita.com/asmg07)
+[![Contributions](https://badgen.org/img/qiita/asmg07/contributions?style=for-the-badge)](https://qiita.com/asmg07)
 ## ✏️Qiita activity
 <!-- profile updater begin: qiita -->
 - Sep 26, **4 LGTM** [Kubernetes上で実行されているDatadog AgentでJava JMX カスタムメトリクスを取得する方法](https://qiita.com/asmg07/items/7134bcba57f36c80bb07)
