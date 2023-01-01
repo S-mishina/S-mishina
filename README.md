@@ -14,7 +14,7 @@ Teikyo University(Department of Information and Electronic Engineering) <br> →
 ## ✏️Qiita activity
 <!-- profile updater begin: qiita -->
 - Dec 21, **5 LGTM** [Kubernetesで運用されているアプリケーションの暖気処理をpostStartからStartup Probeに移行する方法](https://qiita.com/asmg07/items/2313fab550898577253f)
-- Dec 20, **4 LGTM** [Datadog Downtimeを使ってDatadog monitorの閾値を特定の時間だけ変更してみた](https://qiita.com/asmg07/items/d7b24bddd8f56596746c)
+- Dec 20, **6 LGTM** [Datadog Downtimeを使ってDatadog monitorの閾値を特定の時間だけ変更してみた](https://qiita.com/asmg07/items/d7b24bddd8f56596746c)
 - Sep 26, **5 LGTM** [Kubernetes上で実行されているDatadog AgentでJava JMX カスタムメトリクスを取得する方法](https://qiita.com/asmg07/items/7134bcba57f36c80bb07)
 - Sep 15, **1 LGTM** [Kubernetes上で立ち上げられたJMX Server（SpringBoot）に接続する時のTips](https://qiita.com/asmg07/items/c885a6ee0a1dbc3d22b9)
 - Aug 23, **4 LGTM** [Javaで作られたWEBアプリケーションの運用にあたってJVMのパラメータをKubernetesマニフェストで管理する](https://qiita.com/asmg07/items/9e7951369d8fd7a2f325)
