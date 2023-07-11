@@ -16,5 +16,5 @@ Teikyo University(Department of Information and Electronic Engineering) <br> →
 - Mar 9, **5 LGTM** [Kubernetes Service カテゴリのハンズオンを輪読会でやってみた](https://qiita.com/asmg07/items/dcf244e1fbf26d8788ab)
 - Mar 3, **3 LGTM** [AWS リソースを手動作成後に CloudFormation で管理する方法](https://qiita.com/asmg07/items/51f7e4f77653d57eae79)
 - Feb 14, **4 LGTM** [Kubernetesのconfigmapやsecret更新時にワークロードをアップグレードしてくれるReloaderを触ってみた](https://qiita.com/asmg07/items/b8e699bc30e5c16b2022)
-- Dec 21, **11 LGTM** [Kubernetesで運用されているアプリケーションの暖気処理をpostStartからStartup Probeに移行する方法](https://qiita.com/asmg07/items/2313fab550898577253f)
+- Dec 21, **12 LGTM** [Kubernetesで運用されているアプリケーションの暖気処理をpostStartからStartup Probeに移行する方法](https://qiita.com/asmg07/items/2313fab550898577253f)
 <!-- profile updater end: qiita -->
