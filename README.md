@@ -2,7 +2,7 @@
 👦 Name<br>
 Seiryu Mishina<br>
 👨‍🏫Career<br>
-Teikyo University(Department of Information and Electronic Engineering) <br> → EXIDEA inc(intern: data scientist) → ZOZO inc(Platform Service SRE)
+Teikyo University(Department of Information and Electronic Engineering) <br> → EXIDEA inc(intern: data scientist) → ZOZO inc(Platform Service SRE → Front SRE)
 
 ## 🌟status
 ### GitHub
