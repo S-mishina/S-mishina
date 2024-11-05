@@ -1,8 +1,16 @@
 ## 👏About me
-👦 Name<br>
+
+### 👦 Name
 Seiryu Mishina<br>
-👨‍🏫Career<br>
-[Teikyo University(Department of Information and Electronic Engineering)](https://github.com/S-mishina/Personal-portfolio/blob/main/README.md) <br> → EXIDEA inc(intern: data scientist) → ZOZO inc(Platform Service SRE → Front SRE)
+
+### 👨‍🏫Caree
+
+| Year             | Belonging to                                                 |
+| ---------------- | ------------------------------------------------------------ |
+| 2018/04~2022/03  | [Teikyo University (Department of Information and Electronic Engineering)](https://github.com/S-mishina/Personal-portfolio/blob/main/README.md) |
+| 2020/12~2022/03  | EXIDEA Inc (Intern: Data Scientist)                          |
+| 2022/04~2024     | ZOZO Inc (Platform Service SRE)                              |
+| 2024~            | ZOZO Inc (Front SRE)                                         |
 
 ※ Please click on the Teikyo University (Department of Information and Electronic Engineering) link for information on their activities as a student.
 
