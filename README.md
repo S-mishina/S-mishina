@@ -41,7 +41,7 @@ Seiryu Mishina<br>
 - flexiblemockserver
   - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=flexiblemockserver)](https://github.com/S-mishina/flexiblemockserver)
 - p_terraformer
-  -  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=flexiblemockserver)](https://github.com/S-mishina/flexiblemockserver)
+  -  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=p_terraformer)](https://github.com/S-mishina/p_terraformer)
 - redis_benchmark(in preparation)
   - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=flexiblemockserver)](https://github.com/S-mishina/flexiblemockserver)
 
