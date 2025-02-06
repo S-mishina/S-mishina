@@ -1,23 +1,20 @@
-## 👏About me
+# 👏 About Me
 
-### 👦 Name
-Seiryu Mishina<br>
+## 👦 Name
+**Seiryu Mishina**
 
-### 👨‍🏫Caree
+## 💼 Career
+| Year             | Organization & Role                                         |
+| --------------- | ------------------------------------------------------------ |
+| 2018/04~2022/03  | [Teikyo University (Dept. of Information & Electronic Engineering)](https://github.com/S-mishina/Personal-portfolio/blob/main/README.md) |
+| 2020/12~2022/03  | EXIDEA Inc. (Intern: Data Scientist)                          |
+| 2022/04~2024/02  | ZOZO Inc. (Platform Service SRE)                              |
+| 2024/02~         | ZOZO Inc. (Front SRE)                                         |
 
-| Year             | Belonging to                                                 |
-| ---------------- | ------------------------------------------------------------ |
-| 2018/04~2022/03  | [Teikyo University (Department of Information and Electronic Engineering)](https://github.com/S-mishina/Personal-portfolio/blob/main/README.md) |
-| 2020/12~2022/03  | EXIDEA Inc (Intern: Data Scientist)                          |
-| 2022/04~2024/02    | ZOZO Inc (Platform Service SRE)                              |
-| 2024/02~            | ZOZO Inc (Front SRE)                                         |
-
-※ Please click on the Teikyo University (Department of Information and Electronic Engineering) link for information on their activities as a student.
-
-## 🌟status
-### GitHub
+## 📊 GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=S-mishina&margin-w=15&margin-h=15&theme=onedark&title=Commit,PullRequest,Issue,Repository)](https://github.com/ryo-ma/github-profile-trophy)
-### Qiita
+
+## 📝 Qiita Activity
 [![Articles](https://badgen.org/img/qiita/asmg07/articles?style=for-the-badge)](https://qiita.com/asmg07)
 [![Contributions](https://badgen.org/img/qiita/asmg07/contributions?style=for-the-badge)](https://qiita.com/asmg07)
 
