@@ -10,6 +10,7 @@
 | 2020/12~2022/03  | EXIDEA Inc. (Intern: Data Scientist)                          |
 | 2022/04~2024/02  | ZOZO Inc. (Platform Service SRE)                              |
 | 2024/02~         | ZOZO Inc. (Front SRE)                                         |
+| 2025/04~         | ZOZO Inc. (ZOZOMO SRE)                                        |
 
 ## 📊 GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=S-mishina&margin-w=15&margin-h=15&theme=onedark&title=Commit,PullRequest,Issue,Repository)](https://github.com/ryo-ma/github-profile-trophy)
