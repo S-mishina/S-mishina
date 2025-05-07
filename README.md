@@ -48,6 +48,8 @@
   -  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=p_terraformer)](https://github.com/S-mishina/p_terraformer)
 - redis_benchmark(in preparation)
   - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=locust-redis-benchmark)](https://github.com/S-mishina/locust-redis-benchmark)
+- hcl_processor
+  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=hcl_processor)](https://github.com/S-mishina/hcl_processor) 
 
 ## ✏️Qiita activity
 <!-- profile updater begin: qiita -->
