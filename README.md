@@ -53,6 +53,9 @@
 - open-api-mock-build
   - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=open-api-mock-build)](https://github.com/S-mishina/open-api-mock-build)
 
+## Kuberentes custom operator
+
+xxx
 
 ## ✏️Qiita activity
 <!-- profile updater begin: qiita -->
