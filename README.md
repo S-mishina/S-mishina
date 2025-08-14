@@ -42,7 +42,9 @@
 
 ### GitOps
 
-xxx
+  - image-resource-controller-argocd-sandbox
+    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=image-resource-controller)](https://github.com/S-mishina/image-resource-controller-argocd-sandbox)
+
 
 ## SRE Tools
 
