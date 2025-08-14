@@ -59,7 +59,10 @@ xxx
 
 ## Kuberentes custom operator
 
-xxx
+  - image-resource-controller
+    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=image-resource-controller)](https://github.com/S-mishina/image-resource-controller)
+
+
 
 ## ✏️Qiita activity
 <!-- profile updater begin: qiita -->
