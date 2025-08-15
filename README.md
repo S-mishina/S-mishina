@@ -44,6 +44,8 @@
 
   - image-resource-controller-argocd-sandbox
     - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=image-resource-controller-argocd-sandbox)](https://github.com/S-mishina/image-resource-controller-argocd-sandbox)
+  - image-resource-controller-flux-sandbox
+    - xxx
 
 
 ## SRE Tools
