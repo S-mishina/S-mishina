@@ -49,8 +49,10 @@
 
 ## Kuberentes custom operator
 
-  - image-resource-controller
-    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=image-resource-controller)](https://github.com/S-mishina/image-resource-controller)
+| Operator                      | Repository                | Description                                                                                                                                                                                                     |
+| ----------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **image-resource-controller** | image-resource-controller | Kubernetes custom operator that manages container image resources declaratively, enabling GitOps-friendly image updates and lifecycle control<br>[Repo](https://github.com/S-mishina/image-resource-controller) |
+
 
 ## project management tool
 
