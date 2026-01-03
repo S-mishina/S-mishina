@@ -21,39 +21,20 @@
 [![Contributions](https://badgen.org/img/qiita/asmg07/contributions?style=for-the-badge)](https://qiita.com/asmg07)
 
 ## sandbox series
-### application
-- mvc-model-sample
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=mvc-model-sample)](https://github.com/S-mishina/mvc-model-sample)
-- thread_pool_task_executor_sandbox
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=thread_pool_task_executor_sandbox)](https://github.com/S-mishina/thread_pool_task_executor_sandbox)
-- springboot-worker-sandbox
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=springboot-worker-sandbox)](https://github.com/S-mishina/springboot-worker-sandbox)
 
-### observability
+| Category                 | Repository                               | Description                                                                                                                                     |
+| ------------------------ | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Application**          | mvc-model-sample                         | Minimal sample implementation of MVC architecture<br>[Repo](https://github.com/S-mishina/mvc-model-sample)                                      |
+|                          | thread_pool_task_executor_sandbox        | Experimental implementation of a thread pool–based task executor<br>[Repo](https://github.com/S-mishina/thread_pool_task_executor_sandbox)      |
+|                          | springboot-worker-sandbox                | Sandbox for worker-based architecture using Spring Boot<br>[Repo](https://github.com/S-mishina/springboot-worker-sandbox)                       |
+| **Observability**        | spring-boot-jmx-metrics-sample           | Sample for collecting JMX metrics from Spring Boot applications<br>[Repo](https://github.com/S-mishina/spring-boot-jmx-metrics-sample)          |
+|                          | sandbox-otel-py-app                      | Python application for experimenting with OpenTelemetry tracing<br>[Repo](https://github.com/S-mishina/sandbox-otel-py-app)                     |
+|                          | apm-sandbox                              | Sandbox project for validating APM concepts and configurations<br>[Repo](https://github.com/S-mishina/apm-sandbox)                              |
+| **Onboarding Materials** | flexiblemockserver                       | Flexible mock server designed for onboarding and local development<br>[Repo](https://github.com/S-mishina/flexiblemockserver)                   |
+| **GitOps**               | image-resource-controller-argocd-sandbox | Sandbox for Image Resource Controller integration with Argo CD<br>[Repo](https://github.com/S-mishina/image-resource-controller-argocd-sandbox) |
+|                          | image-resource-controller-flux-sandbox   | Sandbox for Image Resource Controller integration with Flux<br>[Repo](https://github.com/S-mishina/image-resource-controller-flux-sandbox)      |
+| **DB**                   | innodb_buffer_pool_size_sandbox          | Sandbox for analyzing the behavior of InnoDB buffer pool size<br>[Repo](https://github.com/S-mishina/innodb_buffer_pool_size_sandbox)           |
 
-- spring-boot-jmx-metrics-sample
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=spring-boot-jmx-metrics-sample)](https://github.com/S-mishina/spring-boot-jmx-metrics-sample)
-- otel trace sandbox app
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=sandbox-otel-py-app)](https://github.com/S-mishina/sandbox-otel-py-app)
-- APM Sandbox
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=apm-sandbox)](https://github.com/S-mishina/apm-sandbox)
-
-### Onboarding Materials
-
-- flexiblemockserver
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=flexiblemockserver)](https://github.com/S-mishina/flexiblemockserver)
-
-### GitOps
-
-  - image-resource-controller-argocd-sandbox
-    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=image-resource-controller-argocd-sandbox)](https://github.com/S-mishina/image-resource-controller-argocd-sandbox)
-  - image-resource-controller-flux-sandbox
-    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=image-resource-controller-flux-sandbox)](https://github.com/S-mishina/image-resource-controller-flux-sandbox)
-
-### DB
-
-  - innodb_buffer_pool_size_sandbox
-    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=innodb_buffer_pool_size_sandbox)](https://github.com/S-mishina/innodb_buffer_pool_size_sandbox)
 
 ## SRE Tools
 
