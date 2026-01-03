@@ -38,16 +38,14 @@
 
 ## SRE Tools
 
-- flexiblemockserver
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=flexiblemockserver)](https://github.com/S-mishina/flexiblemockserver)
-- p_terraformer
-  -  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=p_terraformer)](https://github.com/S-mishina/p_terraformer)
-- redis_benchmark(in preparation)
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=locust-redis-benchmark)](https://github.com/S-mishina/locust-redis-benchmark)
-- hcl_processor
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=hcl_processor)](https://github.com/S-mishina/hcl_processor)
-- open-api-mock-build
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-mishina&repo=open-api-mock-build)](https://github.com/S-mishina/open-api-mock-build)
+| Tool                                   | Repository             | Description                                                                                                                                        |
+| -------------------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **flexiblemockserver**                 | flexiblemockserver     | Flexible mock server for API simulation, onboarding, and local testing in SRE workflows<br>[Repo](https://github.com/S-mishina/flexiblemockserver) |
+| **p_terraformer**                      | p_terraformer          | Utility tool for processing and generating Terraform-related resources and configurations<br>[Repo](https://github.com/S-mishina/p_terraformer)    |
+| **redis_benchmark** *(in preparation)* | locust-redis-benchmark | Redis benchmarking tool using Locust for load and performance testing *(WIP)*<br>[Repo](https://github.com/S-mishina/locust-redis-benchmark)       |
+| **hcl_processor**                      | hcl_processor          | Tool for parsing and processing HCL (HashiCorp Configuration Language) programmatically<br>[Repo](https://github.com/S-mishina/hcl_processor)      |
+| **open-api-mock-build**                | open-api-mock-build    | Tool to automatically generate mock servers from OpenAPI specifications<br>[Repo](https://github.com/S-mishina/open-api-mock-build)                |
+
 
 ## Kuberentes custom operator
 
