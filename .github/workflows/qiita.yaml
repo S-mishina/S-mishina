@@ -8,8 +8,10 @@ on:
 jobs:
   profile-updater:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: kumackey/profile-updater@v1
         with:
           qiita_user_id: asmg07
