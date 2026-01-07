@@ -1,0 +1,3 @@
+# .markdownlint.yaml
+MD013: false # Disable line-length
+MD033: false # Disable no-inline-html

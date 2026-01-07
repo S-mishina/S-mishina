@@ -1,0 +1,4 @@
+[tool.mdformat]
+ignore_files = [
+    "README.md",
+]

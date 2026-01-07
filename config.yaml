@@ -1,0 +1,113 @@
+title: 👏 About Me
+
+free_sections:
+  - title: 👦 Name
+    content: "Seiryu Mishina"
+  - title: 💼 Career
+    type: table
+    headers: ["Year", "Organization & Role"]
+    rows:
+      - ["2018/04~2022/03", "[Teikyo University (Dept. of Information & Electronic Engineering)](https://github.com/S-mishina/Personal-portfolio/blob/main/README.md)"]
+      - ["2020/12~2022/03", "EXIDEA Inc. (Intern: Data Scientist)"]
+      - ["2022/04~2024/02", "ZOZO Inc. (ZOZOMOTOWN SRE dept. Platform Service SRE)"]
+      - ["2024/02~", "ZOZO Inc. (ZOZOMOTOWN SRE dept. Front SRE)"]
+      - ["2025/04~2025/09", "ZOZO Inc. (ZOZOMO dept. SRE)"]
+      - ["2025/09~", "ZOZO Inc. (New Product Section BE dept. SRE)"]
+  - title: 📊 GitHub Stats
+    content: "[![trophy](https://github-profile-trophy.vercel.app/?username=S-mishina&margin-w=15&margin-h=15&theme=onedark&title=Commit,PullRequest,Issue,Repository)](https://github.com/ryo-ma/github-profile-trophy)"
+  - title: 📝 Qiita Activity
+    content: |
+      [![Articles](https://badgen.org/img/qiita/asmg07/articles?style=for-the-badge)](https://qiita.com/asmg07)
+      [![Contributions](https://badgen.org/img/qiita/asmg07/contributions?style=for-the-badge)](https://qiita.com/asmg07)
+
+project_tables:
+  - title: sandbox series
+    headers: ["Category", "Repository", "Description"]
+    groups:
+      - category: "**Application**"
+        projects:
+          - name: "mvc-model-sample"
+            repo: "github.com/S-mishina/mvc-model-sample"
+            description: "Minimal sample implementation of MVC architecture"
+          - name: "thread_pool_task_executor_sandbox"
+            repo: "github.com/S-mishina/thread_pool_task_executor_sandbox"
+            description: "Experimental implementation of a thread pool–based task executor"
+          - name: "springboot-worker-sandbox"
+            repo: "github.com/S-mishina/springboot-worker-sandbox"
+            description: "Sandbox for worker-based architecture using Spring Boot"
+      - category: "**Observability**"
+        projects:
+          - name: "spring-boot-jmx-metrics-sample"
+            repo: "github.com/S-mishina/spring-boot-jmx-metrics-sample"
+            description: "Sample for collecting JMX metrics from Spring Boot applications"
+          - name: "sandbox-otel-py-app"
+            repo: "github.com/S-mishina/sandbox-otel-py-app"
+            description: "Python application for experimenting with OpenTelemetry tracing"
+          - name: "apm-sandbox"
+            repo: "github.com/S-mishina/apm-sandbox"
+            description: "Sandbox project for validating APM concepts and configurations"
+      - category: "**Onboarding Materials**"
+        projects:
+          - name: "flexiblemockserver"
+            repo: "github.com/S-mishina/flexiblemockserver"
+            description: "Flexible mock server designed for onboarding and local development"
+      - category: "**GitOps**"
+        projects:
+          - name: "image-resource-controller-argocd-sandbox"
+            repo: "github.com/S-mishina/image-resource-controller-argocd-sandbox"
+            description: "Sandbox for Image Resource Controller integration with Argo CD"
+          - name: "image-resource-controller-flux-sandbox"
+            repo: "github.com/S-mishina/image-resource-controller-flux-sandbox"
+            description: "Sandbox for Image Resource Controller integration with Flux"
+      - category: "**DB**"
+        projects:
+          - name: "innodb_buffer_pool_size_sandbox"
+            repo: "github.com/S-mishina/innodb_buffer_pool_size_sandbox"
+            description: "Sandbox for analyzing the behavior of InnoDB buffer pool size"
+
+  - title: SRE Tools
+    headers: ["Tool", "Repository", "Description"]
+    groups:
+      - category: "**flexiblemockserver**"
+        projects:
+          - name: "flexiblemockserver"
+            repo: "github.com/S-mishina/flexiblemockserver"
+            description: "Flexible mock server for API simulation, onboarding, and local testing in SRE workflows"
+      - category: "**p_terraformer**"
+        projects:
+          - name: "p_terraformer"
+            repo: "github.com/S-mishina/p_terraformer"
+            description: "Utility tool for processing and generating Terraform-related resources and configurations"
+      - category: "**redis_benchmark** *(in preparation)*"
+        projects:
+          - name: "locust-redis-benchmark"
+            repo: "github.com/S-mishina/locust-redis-benchmark"
+            description: "Redis benchmarking tool using Locust for load and performance testing *(WIP)*"
+      - category: "**hcl_processor**"
+        projects:
+          - name: "hcl_processor"
+            repo: "github.com/S-mishina/hcl_processor"
+            description: "Tool for parsing and processing HCL (HashiCorp Configuration Language) programmatically"
+      - category: "**open-api-mock-build**"
+        projects:
+          - name: "open-api-mock-build"
+            repo: "github.com/S-mishina/open-api-mock-build"
+            description: "Tool to automatically generate mock servers from OpenAPI specifications"
+
+  - title: Kuberentes custom operator
+    headers: ["Operator", "Repository", "Description"]
+    groups:
+      - category: "**image-resource-controller**"
+        projects:
+          - name: "image-resource-controller"
+            repo: "github.com/S-mishina/image-resource-controller"
+            description: "Kubernetes custom operator that manages container image resources declaratively, enabling GitOps-friendly image updates and lifecycle control"
+
+  - title: project management tool
+    headers: ["Tool", "Repository", "Description"]
+    groups:
+      - category: "xxx"
+        projects:
+          - name: "xxx"
+            repo: ""
+            description: "xxx"

@@ -1,0 +1,9 @@
+# .yamllint.yaml
+# Basic configuration for yamllint
+extends: default
+
+rules:
+  line-length: disable
+  indentation:
+    spaces: 2
+  # You can add more rules or customize existing ones here
