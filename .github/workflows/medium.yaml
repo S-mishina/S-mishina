@@ -1,0 +1,23 @@
+name: Update README with Medium posts
+
+on:
+  schedule:
+    # 1時間ごとに実行
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-medium-posts:
+    runs-on: ubuntu-latest
+    # リポジトリへの書き込み権限を付与
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@seiryu.mishina"
+          max_post_count: 5

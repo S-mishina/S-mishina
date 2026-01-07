@@ -1,4 +1,4 @@
-name: Update README with blog posts and profile
+name: profile updater
 
 on:
   schedule:
@@ -8,23 +8,15 @@ on:
 jobs:
   profile-updater:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: kumackey/profile-updater@v1
         with:
           qiita_user_id: asmg07
-      - name: Update README with Medium posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://medium.com/feed/@seiryu.mishina"
-          max_post_count: 5
-          skip_commit: true
       - name: Commit and push
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "action@github.com"
           git add .
-          git commit -m "Update README with latest blog posts and profile" || true
+          git commit -m "profile updated" || true
           git push origin main
