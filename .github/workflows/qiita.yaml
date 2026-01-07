@@ -18,6 +18,7 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@seiryu.mishina"
           max_post_count: 5
+          skip_commit: true
       - name: Commit and push
         run: |
           git config --local user.name "GitHub Actions"
