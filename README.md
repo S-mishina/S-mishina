@@ -80,5 +80,5 @@ Seiryu Mishina
 ## 📰 Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [GitOps for Kubernetes: I did a PoC for automatic resource generation from container push](https://medium.com/@seiryu.mishina/gitops-for-kubernetes-i-did-a-poc-for-automatic-resource-generation-from-container-push-a76b3f460ffa?source=rss-c3bebf399480------2)
 <!-- BLOG-POST-LIST:END -->
