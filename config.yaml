@@ -64,6 +64,9 @@ project_tables:
           - name: "innodb_buffer_pool_size_sandbox"
             repo: "github.com/S-mishina/innodb_buffer_pool_size_sandbox"
             description: "Sandbox for analyzing the behavior of InnoDB buffer pool size"
+          - name: "rds-ops-sandbox"
+            repo: "github.com/S-mishina/rds-ops-sandbox"
+            description: "Sandbox environment for learning RDS operations. Learn MySQL operations using the schema of the large-scale SNS service “SocialHub”."
 
   - title: SRE Tools
     headers: ["Tool", "Repository", "Description"]
