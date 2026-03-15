@@ -108,6 +108,9 @@ project_tables:
           - name: "image-resource-controller"
             repo: "github.com/S-mishina/image-resource-controller"
             description: "Kubernetes custom operator that manages container image resources declaratively, enabling GitOps-friendly image updates and lifecycle control"
+          - name: "initjob-operator"
+            repo: "github.com/S-mishina/initjob-operator"
+            description: "Kubernetes operator that manages one-time initialization jobs with diff detection, ensuring idempotent"
 
   - title: project management tool
     headers: ["Tool", "Repository", "Description"]
