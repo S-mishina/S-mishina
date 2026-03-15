@@ -46,6 +46,9 @@ project_tables:
           - name: "apm-sandbox"
             repo: "github.com/S-mishina/apm-sandbox"
             description: "Sandbox project for validating APM concepts and configurations"
+          - name: "log-mask-sandbox"
+            repo: "github.com/S-mishina/log-mask-sandbox"
+            description: "This repository is a sandbox that explores methods for masking application logs."
       - category: "**Onboarding Materials**"
         projects:
           - name: "flexiblemockserver"
