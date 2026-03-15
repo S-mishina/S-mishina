@@ -37,6 +37,7 @@ Seiryu Mishina
 | **Observability** | spring-boot-jmx-metrics-sample | Sample for collecting JMX metrics from Spring Boot applications [Repo](https://github.com/S-mishina/spring-boot-jmx-metrics-sample) |
 |  | sandbox-otel-py-app | Python application for experimenting with OpenTelemetry tracing [Repo](https://github.com/S-mishina/sandbox-otel-py-app) |
 |  | apm-sandbox | Sandbox project for validating APM concepts and configurations [Repo](https://github.com/S-mishina/apm-sandbox) |
+|  | log-mask-sandbox | This repository is a sandbox that explores methods for masking application logs. [Repo](https://github.com/S-mishina/log-mask-sandbox) |
 | **Onboarding Materials** | flexiblemockserver | Flexible mock server designed for onboarding and local development [Repo](https://github.com/S-mishina/flexiblemockserver) |
 | **GitOps** | image-resource-controller-argocd-sandbox | Sandbox for Image Resource Controller integration with Argo CD [Repo](https://github.com/S-mishina/image-resource-controller-argocd-sandbox) |
 |  | image-resource-controller-flux-sandbox | Sandbox for Image Resource Controller integration with Flux [Repo](https://github.com/S-mishina/image-resource-controller-flux-sandbox) |
