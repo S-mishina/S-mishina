@@ -80,5 +80,6 @@ Seiryu Mishina
 ## 📰 Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [A GitOps Pattern for Database Migrations and Application Deployments on Kubernetes](https://medium.com/@seiryu.mishina/a-gitops-pattern-for-database-migrations-and-application-deployments-on-kubernetes-8d37e55b6e91?source=rss-c3bebf399480------2)
 - [GitOps for Kubernetes: I did a PoC for automatic resource generation from container push](https://medium.com/@seiryu.mishina/gitops-for-kubernetes-i-did-a-poc-for-automatic-resource-generation-from-container-push-a76b3f460ffa?source=rss-c3bebf399480------2)
 <!-- BLOG-POST-LIST:END -->
