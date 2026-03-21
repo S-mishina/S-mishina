@@ -59,7 +59,7 @@ Seiryu Mishina
 | Operator | Repository | Description |
 |---|---|---|
 | **image-resource-controller** | image-resource-controller | Kubernetes custom operator that manages container image resources declaratively, enabling GitOps-friendly image updates and lifecycle control [Repo](https://github.com/S-mishina/image-resource-controller) |
-|  | initjob-operator | Kubernetes operator that manages one-time initialization jobs with diff detection, ensuring idempotent [Repo](https://github.com/S-mishina/initjob-operator) |
+| **initjob-operator** | initjob-operator | Kubernetes operator that manages one-time initialization jobs with diff detection, ensuring idempotent [Repo](https://github.com/S-mishina/initjob-operator) |
 
 ## project management tool
 
