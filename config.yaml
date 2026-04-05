@@ -10,7 +10,7 @@ free_sections:
       - ["2018/04~2022/03", "[Teikyo University (Dept. of Information & Electronic Engineering)](https://github.com/S-mishina/Personal-portfolio/blob/main/README.md)"]
       - ["2020/12~2022/03", "EXIDEA Inc. (Intern: Data Scientist)"]
       - ["2022/04~2024/02", "ZOZO Inc. (ZOZOMOTOWN SRE dept. Platform Service SRE)"]
-      - ["2024/02~", "ZOZO Inc. (ZOZOMOTOWN SRE dept. Front SRE)"]
+      - ["2024/02~2026/03", "ZOZO Inc. (ZOZOMOTOWN SRE dept. Front SRE)"]
       - ["2025/04~2025/09", "ZOZO Inc. (ZOZOMO dept. SRE)"]
       - ["2025/09~", "ZOZO Inc. (New Product Section BE dept. SRE)"]
   - title: 📊 GitHub Stats
@@ -99,6 +99,11 @@ project_tables:
           - name: "open-api-mock-build"
             repo: "github.com/S-mishina/open-api-mock-build"
             description: "Tool to automatically generate mock servers from OpenAPI specifications"
+      - category: "**cobrayaml**"
+        projects:
+          - name: "cobrayaml"
+            repo: "github.com/S-mishina/cobrayaml"
+            description: "YAML based command builder and code generator for   Cobra CLI applications"
 
   - title: Kuberentes custom operator
     headers: ["Operator", "Repository", "Description"]
