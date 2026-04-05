@@ -13,7 +13,7 @@ Seiryu Mishina
 | 2018/04~2022/03 | [Teikyo University (Dept. of Information & Electronic Engineering)](https://github.com/S-mishina/Personal-portfolio/blob/main/README.md) |
 | 2020/12~2022/03 | EXIDEA Inc. (Intern: Data Scientist) |
 | 2022/04~2024/02 | ZOZO Inc. (ZOZOMOTOWN SRE dept. Platform Service SRE) |
-| 2024/02~ | ZOZO Inc. (ZOZOMOTOWN SRE dept. Front SRE) |
+| 2024/02~2026/03 | ZOZO Inc. (ZOZOMOTOWN SRE dept. Front SRE) |
 | 2025/04~2025/09 | ZOZO Inc. (ZOZOMO dept. SRE) |
 | 2025/09~ | ZOZO Inc. (New Product Section BE dept. SRE) |
 
@@ -53,6 +53,7 @@ Seiryu Mishina
 | **redis_benchmark** *(in preparation)* | locust-redis-benchmark | Redis benchmarking tool using Locust for load and performance testing *(WIP)* [Repo](https://github.com/S-mishina/locust-redis-benchmark) |
 | **hcl_processor** | hcl_processor | Tool for parsing and processing HCL (HashiCorp Configuration Language) programmatically [Repo](https://github.com/S-mishina/hcl_processor) |
 | **open-api-mock-build** | open-api-mock-build | Tool to automatically generate mock servers from OpenAPI specifications [Repo](https://github.com/S-mishina/open-api-mock-build) |
+| **cobrayaml** | cobrayaml | YAML based command builder and code generator for   Cobra CLI applications [Repo](https://github.com/S-mishina/cobrayaml) |
 
 ## Kuberentes custom operator
 
