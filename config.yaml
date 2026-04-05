@@ -105,6 +105,15 @@ project_tables:
             repo: "github.com/S-mishina/cobrayaml"
             description: "YAML based command builder and code generator for   Cobra CLI applications"
 
+  - title: SRE Platform
+    headers: ["Tool", "Repository", "Description","Platform"]
+    groups:
+      - category: "**reusable-workflows**"
+        projects:
+          - name: "reusable-workflows"
+            repo: "github.com/S-mishina/reusable-workflows"
+            description: "Reusable GitHub Actions workflows for testing, linting, Docker builds, releases, and security scans across Go, Python, Java, and more."
+
   - title: Kuberentes custom operator
     headers: ["Operator", "Repository", "Description"]
     groups:
@@ -118,12 +127,3 @@ project_tables:
           - name: "initjob-operator"
             repo: "github.com/S-mishina/initjob-operator"
             description: "Kubernetes operator that manages one-time initialization jobs with diff detection, ensuring idempotent"
-
-  - title: project management tool
-    headers: ["Tool", "Repository", "Description"]
-    groups:
-      - category: "xxx"
-        projects:
-          - name: "xxx"
-            repo: ""
-            description: "xxx"
