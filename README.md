@@ -55,18 +55,18 @@ Seiryu Mishina
 | **open-api-mock-build** | open-api-mock-build | Tool to automatically generate mock servers from OpenAPI specifications [Repo](https://github.com/S-mishina/open-api-mock-build) |
 | **cobrayaml** | cobrayaml | YAML based command builder and code generator for   Cobra CLI applications [Repo](https://github.com/S-mishina/cobrayaml) |
 
+## SRE Platform
+
+| Tool | Repository | Description | Platform |
+|---|---|---|---|
+| **reusable-workflows** | reusable-workflows | Reusable GitHub Actions workflows for testing, linting, Docker builds, releases, and security scans across Go, Python, Java, and more. [Repo](https://github.com/S-mishina/reusable-workflows) |
+
 ## Kuberentes custom operator
 
 | Operator | Repository | Description |
 |---|---|---|
 | **image-resource-controller** | image-resource-controller | Kubernetes custom operator that manages container image resources declaratively, enabling GitOps-friendly image updates and lifecycle control [Repo](https://github.com/S-mishina/image-resource-controller) |
 | **initjob-operator** | initjob-operator | Kubernetes operator that manages one-time initialization jobs with diff detection, ensuring idempotent [Repo](https://github.com/S-mishina/initjob-operator) |
-
-## project management tool
-
-| Tool | Repository | Description |
-|---|---|---|
-| xxx | xxx | xxx |
 <!-- readme-generator:end -->
 ## ✏️Qiita activity
 
