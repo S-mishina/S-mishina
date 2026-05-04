@@ -14,7 +14,7 @@ Seiryu Mishina
 | 2020/12~2022/03 | EXIDEA Inc. (Intern: Data Scientist) |
 | 2022/04~2024/02 | ZOZO Inc. (ZOZOMOTOWN SRE dept. Platform Service SRE) |
 | 2024/02~2026/03 | ZOZO Inc. (ZOZOMOTOWN SRE dept. Front SRE) |
-| 2025/04~2025/09 | ZOZO Inc. (ZOZOMO dept. SRE) |
+| 2025/04~2025/09 | ZOZO Inc. (ZOZOMO dept. Platform Engineer) |
 | 2025/09~ | ZOZO Inc. (New Product Section BE dept. SRE) |
 
 ## 📊 GitHub Stats
