@@ -11,8 +11,8 @@ free_sections:
       - ["2020/12~2022/03", "EXIDEA Inc. (Intern: Data Scientist)"]
       - ["2022/04~2024/02", "ZOZO Inc. (ZOZOMOTOWN SRE dept. Platform Service SRE)"]
       - ["2024/02~2026/03", "ZOZO Inc. (ZOZOMOTOWN SRE dept. Front SRE)"]
-      - ["2025/04~2025/09", "ZOZO Inc. (ZOZOMO dept. Platform Engineer)"]
-      - ["2025/09~", "ZOZO Inc. (New Product Section BE dept. SRE)"]
+      - ["2025/04~2025/09", "ZOZO Inc. (ZOZOMO dept. SRE)"]
+      - ["2025/09~", "ZOZO Inc. (New Product Section BE dept. Platform Engineer)"]
   - title: 📊 GitHub Stats
     content: "[![trophy](https://github-profile-trophy.vercel.app/?username=S-mishina&margin-w=15&margin-h=15&theme=onedark&title=Commit,PullRequest,Issue,Repository)](https://github.com/ryo-ma/github-profile-trophy)"
   - title: 📝 Qiita Activity
